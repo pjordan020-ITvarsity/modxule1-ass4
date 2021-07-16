@@ -1,0 +1,47 @@
+
+h1{
+    text-align: center;
+    color: forestgreen;
+    background-color: aquamarine;
+}
+
+table {
+    text-align: center;
+    background-color: #3a6070;
+    color:cyan;
+    width: 100%;
+    table-layout:inherit;
+      
+}
+table,td{
+    border-collapse: collapse;
+    border:15px solid#e3e3e3;
+    border-style: groove;
+    padding:4px 8px ;   
+    text-decoration: none;
+    font-family: monospace;
+    color: whitesmoke;
+    border-color: cornflowerblue;
+    font-size: 1.3em;
+}
+
+a:hover{
+    
+    
+    padding:4px 8px ;   
+    text-decoration: none;
+    font-family: monospace;
+    color: aqua;
+}
+a{
+    
+    
+    padding:4px 8px ;   
+    text-decoration: none;
+    font-family: monospace;
+    color: whitesmoke;
+}
+img{
+    
+    width: 100px;
+}
